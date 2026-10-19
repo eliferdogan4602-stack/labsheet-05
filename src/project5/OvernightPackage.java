@@ -1,7 +1,7 @@
 
 package project5;
 
-// OvernightPackage.java
+
 public class OvernightPackage extends Package {
     private double additionalFeePerOunce;
 
